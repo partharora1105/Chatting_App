@@ -14,4 +14,4 @@ A basic chatting app build on Python Flask to chat securly with peers on the web
 	<li>Create your account an hop in</li>
 </ul>
 <h2>Media</h2>
-# Chatting_App
+
