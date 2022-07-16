@@ -1,5 +1,5 @@
 <h1>Chatting App</h1>
-A basic chatting app build on Python Flask to chat securly with peers on the web on any device<a href="http://www.gtxr.club/">here</a>
+A basic chatting app build on Python Flask to chat securly with peers on the web on any device.
 <h2>Setup</h2>
 <ul>
 	<li>Make sure you have python version 3 or higher</li>
@@ -14,4 +14,12 @@ A basic chatting app build on Python Flask to chat securly with peers on the web
 	<li>Create your account an hop in</li>
 </ul>
 <h2>Media</h2>
+<p align="center">
+  <img src="www.projects.bet/Media/github/Chat/img1.png">
+  <br>Chat
+</p>
+<p align="center">
+  <img src="www.projects.bet/Media/github/Chat/img2.png">
+  <br>Log In
+</p>
 
