@@ -15,11 +15,11 @@ A basic chatting app build on Python Flask to chat securly with peers on the web
 </ul>
 <h2>Media</h2>
 <p align="center">
-  <img src="/github/img1.png">
+  <img src="/github/img2.png">
   <br>Chat
 </p>
 <p align="center">
-  <img src="/github/img2.png">
+  <img src="/github/img1.png">
   <br>Log In
 </p>
 
